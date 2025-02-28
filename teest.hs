@@ -1,0 +1,1 @@
+data Cv = S1 Int | S2 Int Int deriving Show
